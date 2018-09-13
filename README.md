@@ -1,7 +1,7 @@
 # Protractor Cucumber Browserstack Framework Template
 
 
-This repository is about the end to end automation test framework that is using the following libraries:
+This repository is about the end to end automation test framework in Javascript that is using the following libraries:
 
 - Protractor
 - CucumberJS
@@ -14,6 +14,9 @@ This repository is about the end to end automation test framework that is using 
 - feature_files: contains all the feature files that can be used by cucumber
 - page_objects: Page Object files (to be defined)
 - step_definitions: where we define the method definitions
+
+##Before All
+`npm update` in the project folder
 
 ## To update and start web drivers
 `webdriver-manager update`
