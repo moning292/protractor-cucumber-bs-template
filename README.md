@@ -15,7 +15,7 @@ This repository is about the end to end automation test framework in Javascript 
 - page_objects: Page Object files (to be defined)
 - step_definitions: where we define the method definitions
 
-##Before All
+## Before All
 `npm update` in the project folder
 
 ## To update and start web drivers
